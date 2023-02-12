@@ -26,3 +26,8 @@ Source: GitHub
 
 ## What's next for Angela the Chatbot
 We would like to make Angela more robust by making it so she can handle even more categories than just a negative or positive assessment of the person she's talking to. We'd also like to speed up the UI to better meet the purpose of a self-assessment chatBot.
+
+## Team members
+1. L. Gomathi
+2. Susie Kihaile
+3. Satwika Sridhar
